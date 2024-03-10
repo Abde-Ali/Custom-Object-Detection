@@ -1,10 +1,21 @@
+
+
+
+
 # Custom-Object-Detection
-Custom-Object-Detection
-Final Results:![image](https://github.com/Abde-Ali/Custom-Object-Detection/assets/120010418/0fe278b7-aa4f-48f4-93a7-b88612ce4598)
+Final Results:![image](https://github.com/ashfaq-khan14/Custom-Object-Detection/assets/120010803/4d025bbe-503c-4537-be93-b590212a3455)
+
+
+
+
+
+
+
 
 
 Certainly! Below is a GitHub README template that incorporates the information provided earlier for your Object Detection project:
 
+```markdown
 # Object Detection Project
 
 Welcome to the Object Detection project repository! This project involves training a TensorFlow model for object detection. Here's a guide to help you navigate through the project.
@@ -32,43 +43,48 @@ The goal of this project is to create an effective object detection model using 
 |-- generate_tfrecord.py
 |-- model_main_tf2.py
 |-- ...
-Instructions
-Data Collection and Labeling:
+```
 
-Collect a diverse dataset.
-Label data using the LabelImg tool.
-Command Prompt Execution:
+## Instructions
 
-Run commands as per the instructions provided.
-Prerequisite Installation:
+1. **Data Collection and Labeling:**
+   - Collect a diverse dataset.
+   - Label data using the LabelImg tool.
 
-Install TensorFlow and dependencies.
-Compilation and Model Setup:
+2. **Command Prompt Execution:**
+   - Run commands as per the instructions provided.
 
-Compile Protobuf files.
-Set up the model in the correct directory structure.
-Utilizing TensorFlow Directory Structure:
+3. **Prerequisite Installation:**
+   - Install TensorFlow and dependencies.
 
-Follow the recommended TensorFlow directory structure.
-Installing Pretrained Models:
+4. **Compilation and Model Setup:**
+   - Compile Protobuf files.
+   - Set up the model in the correct directory structure.
 
-Download and integrate pretrained models.
-Exporting and Training Duration:
+5. **Utilizing TensorFlow Directory Structure:**
+   - Follow the recommended TensorFlow directory structure.
 
-Export the model.
-Be patient during training; it may take a while.
-GPU Connectivity Issues:
+6. **Installing Pretrained Models:**
+   - Download and integrate pretrained models.
 
-Handle GPU connectivity interruptions by reconnecting.
-Challenges Faced
-Data collection and labeling were time-consuming but essential for accurate training.
-Running commands in the command prompt required attention to detail.
-Installation of prerequisites posed challenges but was overcome with detailed guides.
-Proper compilation of Protobuf files and setting up the model directory structure was crucial.
-Adhering to the TensorFlow directory structure was emphasized for compatibility.
-Installing and configuring pretrained models required careful steps.
-Exporting the model and long training durations required patience.
-Handling GPU connectivity issues, including disconnections during training sessions.
-Contribution
+7. **Exporting and Training Duration:**
+   - Export the model.
+   - Be patient during training; it may take a while.
+
+8. **GPU Connectivity Issues:**
+   - Handle GPU connectivity interruptions by reconnecting.
+
+## Challenges Faced
+
+- Data collection and labeling were time-consuming but essential for accurate training.
+- Running commands in the command prompt required attention to detail.
+- Installation of prerequisites posed challenges but was overcome with detailed guides.
+- Proper compilation of Protobuf files and setting up the model directory structure was crucial.
+- Adhering to the TensorFlow directory structure was emphasized for compatibility.
+- Installing and configuring pretrained models required careful steps.
+- Exporting the model and long training durations required patience.
+- Handling GPU connectivity issues, including disconnections during training sessions.
+
+## Contribution
+
 Contributions are welcome! Feel free to fork the repository, open issues, or submit pull requests
-
